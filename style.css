@@ -94,3 +94,13 @@ img {
 img:hover {
 	transform: scale(0.9);
 }
+
+#contact a {
+	font-size: 30px !important;
+	font-family: 'Courgette', cursive !important;
+}
+
+#contact {
+	background-color: chartreuse;
+	padding-top: 20px;
+}
